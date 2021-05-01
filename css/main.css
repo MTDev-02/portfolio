@@ -1,0 +1,57 @@
+/* #d5f4e6 #80ced6 #fefbd8 #618685 */
+/* l-green blue    tan 	   d-blue */
+
+body{
+	margin: 20px;
+	background-color: #fefbd8;
+	font-family: Helvetica, sans-serif;
+	color: #618685;
+}
+
+div.experience{
+	max-width: 1400px;
+	display: block;
+	position: relative;
+	margin: 0 auto;
+}
+
+img.logo{
+	display: block;
+	margin: 0 auto;
+	width: 25%;
+	border-radius: 50%
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center
+}
+
+ul.experience{
+	text-align: center;
+	padding: 0px;
+}
+
+.experience li{
+	margin: 10px;
+	padding: 10px;
+	width: 200px;
+	height: 100px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	border: 5px dashed #618685;
+}
+
+.circle{
+	height: 50px;
+ 	width: 50px;
+ 	background-color: #80ced6;
+ 	border-radius: 50%;
+ 	border: 4px solid #618685;
+ 	margin: 10px auto;
+ 	box-sizing: border-box;
+}
